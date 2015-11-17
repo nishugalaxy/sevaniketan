@@ -1,0 +1,22 @@
+@import url(http://fonts.googleapis.com/css?family=Trade+Winds);
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:700);
+
+$navbar-default-bg:#fff;
+$navbar-default-link-hover-color:#F9690E;
+.navbar-brand
+{
+font-family: 'Ubuntu', sans-serif;	
+}
+.center
+{
+	text-align: center;
+}
+
+
+$navbar-default-brand-color:#F9690E;
+$body-bg:#F2F1EF;
+
+$jumbotron-bg:#fff;
+
+@import 'bootstrap-sprockets';
+@import 'bootstrap';
